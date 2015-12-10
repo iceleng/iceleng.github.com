@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: ice & ella
+name: 清风居：终难舍大漠孤烟，长河落日
 
 # Short bio or description (displayed in the header)
 description: 宠辱不惊，看庭前花开花落；去留无意，望天空云卷云舒。
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://www.iceleng.com
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
