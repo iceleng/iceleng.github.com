@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:       "Renyuan's blog"
-description: 'A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France.'
+title:       "IceLeng's blog"
+description: 'A backend developer and operator who loves design awesome things. Working for HW in ShenZhen, China.'
 url:         # the base hostname & protocol for your site
 
 #
@@ -12,7 +12,7 @@ url:         # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          China/ShenZhen
 markdown:          kramdown
 highlighter:       pygments
 excerpt_separator: <!--more-->
@@ -31,11 +31,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Renyuan
-  avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
+  name: IceLeng
+  avatar: beauty.jpg
+  job: "Operation Engineer"
+  bio: "A backend developer and operator who loves design awesome things. Working for HW in ShenZhen, China."
+  email: iceprogrammer@sohu.com
   disqus-shortname: renyuanzblog
   twitter: alittlered3 #username
   facebook: #username
@@ -46,7 +46,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: iceleng #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
