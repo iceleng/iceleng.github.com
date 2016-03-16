@@ -3,8 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title:       "IceLeng's blog"
-description: 'A backend developer and operator who loves design awesome things. Working for HW in ShenZhen, China.'
+title:       "清风居"
+#title:       "IceLeng's blog"
+#description: 'A backend developer and operator who loves design awesome things. Working for HW in ShenZhen, China.'
+description: '宠辱不惊，看庭前花开花落；去留无意，望天空云卷云舒……'
 url:         # the base hostname & protocol for your site
 
 #
@@ -31,17 +33,17 @@ kramdown:
 ####################################
 #
 owner:
-  name: IceLeng
-  avatar: beauty.jpg
-  job: "Operation Engineer"
+  name: iceleng #清风明月醉卧江
+  avatar: cat.jpg
+  job: Dream maker #"Operation Engineer"
   bio: "A backend developer and operator who loves design awesome things. Working for HW in ShenZhen, China."
   email: iceprogrammer@sohu.com
   disqus-shortname: iceleng
-  twitter: alittlered3 #username
+  twitter:  #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-1
+    analytics: #UA-62251910-1
     verify:
     ad-client:
     ad-slot:

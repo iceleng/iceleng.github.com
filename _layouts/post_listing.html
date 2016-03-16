@@ -2,6 +2,23 @@
 layout: default
 ---
 
+  <!--<div class="container">-->
+  <div>
+    <header class="masthead clearfix">
+      <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/img/{{ site.owner.avatar }}" /></a>
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <br>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
+
+      <nav>
+        <a href="{{ site.baseurl }}/">Blog</a>
+        <a href="{{ site.baseurl }}/about">About</a>
+      </nav>
+    </header>
+  </div>
+
 {% for post in site.posts %}
 <section class="post">
   <header class="post-header">
