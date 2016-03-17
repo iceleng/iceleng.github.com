@@ -39,7 +39,7 @@
   margin: 0;
   color: #333;
   cursor: pointer;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif,"Microsoft YaHei";
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif,"Microsoft YaHei", "微软雅黑",STXihei, "华文细黑",serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -48,13 +48,14 @@
 .site-description {
   margin: -5px 0 0 0;
   color: #666;
+  font-family: "Microsoft YaHei", "微软雅黑",STXihei, "华文细黑",serif;
   font-size: 16px;
 }
 
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif,"Microsoft YaHei";
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 
   a {
